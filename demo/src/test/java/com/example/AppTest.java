@@ -16,6 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-        System.out.println("pugi");
+        System.out.println("jenkins");
+        System.out.println("jenkins practice");
     }
 }
